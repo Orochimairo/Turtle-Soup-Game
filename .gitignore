@@ -31,7 +31,7 @@ frontend/vite.config.d.ts
 *.db
 *.sqlite
 *.sqlite3
-var/
+!var/turtle_soup.sqlite3
 logs/
 
 # Editors and operating systems

@@ -1,0 +1,4 @@
+var/catalog/catalog.v1.json text eol=lf
+var/catalog/private_review/*.md text eol=lf
+var/model_eval/**/*.json text eol=lf
+var/*.sqlite3 binary
